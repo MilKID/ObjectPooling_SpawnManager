@@ -1,4 +1,4 @@
-sing UnityEngine;u
+using UnityEngine;
 
 public class SpawnManager : MonoBehaviour {
 
